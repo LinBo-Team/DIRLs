@@ -1,1 +1,3 @@
-大家运行test.py文件，这是编写的一个简单的示例，输入样本即为我们使用的振动信号，行为样本，列为每个样本的维度，最后一列为样本的标签。
+This is the code ragarding the parameter optimizaiton of the DIRLs.
+The codes before and after revision are *BeforeRevision_paraAnalysis.py* and *AfterRevision_paraAnalysis.py* respectively.
+The validation dataset is included in the repository
